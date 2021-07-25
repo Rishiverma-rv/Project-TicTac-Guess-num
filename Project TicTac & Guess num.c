@@ -22,7 +22,6 @@ int main()
         exit(0);
     case 1:
         tictac();
-        printf("you entered 1");
         break;
     case 2:
         guessNum();
